@@ -9,11 +9,16 @@ const Body = () => {
 
     const [artists, setArtists] = useState([]);
     const [cart, setCart] = useState([])
+
+    // JSON file state
+
     useEffect(() => {
         fetch("./fakedata.JSON")
             .then(res => res.json())
             .then(data => setArtists(data))
     }, [])
+
+    // handler 
 
     const handlerAddToCart = (artist) => {
         const newCart = [...cart, artist];
@@ -23,7 +28,7 @@ const Body = () => {
 
     // console.log(artists)
     return (
-
+        // Main Cart
         <div className="body-container">
             <div className="body-left">
                 {

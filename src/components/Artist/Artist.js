@@ -3,9 +3,13 @@ import "./Artist.css"
 
 const Artist = (props) => {
     // console.log(props.name)
+    // Distructure props
     const { name, age, img, genre, country, salary } = props.artist
     return (
         <div className="shadow m-3 p-4 artist-container">
+
+            {/* Left Side Artist */}
+
             <div className="text-center my-3">
                 <img src={img} alt="" />
             </div>

@@ -2,6 +2,7 @@ import React from 'react';
 import "./Header.css"
 const Header = () => {
     return (
+        // header
         <div className="header-container">
             <h2>Hire Artists</h2>
             <a style={style} href="/home">Home</a>
@@ -13,6 +14,8 @@ const Header = () => {
         </div>
     );
 };
+
+// link style 
 const style = {
     color: "white",
     margin: "100px 5px",
