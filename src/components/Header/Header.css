@@ -1,0 +1,8 @@
+.header-container {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #ff000087, #ffa00087);
+    padding: 20px;
+}
+.header-container a{
+    padding: 20px 30px;
+}

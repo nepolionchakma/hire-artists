@@ -1,0 +1,18 @@
+.body-container {
+    background-image: linear-gradient(to bottom right, #ff00006b, #ffff0082);
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: auto;
+}
+h5{
+    margin: 0;
+}
+.body-left{
+    margin-right: 4px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.body-right{
+    margin: 0 4px;
+    padding: 20px;
+}

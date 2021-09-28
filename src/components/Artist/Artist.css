@@ -1,0 +1,8 @@
+img{
+    width: 50%;
+    border-radius: 50%;
+}
+.artist-container {
+    background-image: linear-gradient(to bottom right, #ffff0038, #ff000021);
+    border-radius: 7px;
+}

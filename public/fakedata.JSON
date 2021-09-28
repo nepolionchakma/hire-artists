@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Imran Mahmudul",
+        "age": "30",
+        "country": "BD",
+        "img": "https://2.bp.blogspot.com/-7-POy2KcDWc/WrfqmhWY8HI/AAAAAAAAAH0/HOKps8ohr4IDLhPLU9aNqGT4oIWfSvITgCLcBGAs/s1600/mIZjQam.jpg",
+        "genre": "Classical, Pop",
+        "id": "1",
+        "salary": 130
+    },
+    {
+        "name": "Habib Wahid",
+        "age": "41",
+        "country": "BD",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLT5Y4QxvHam4uSFXFyljPXeVXsEXBEKLU7qAO09=s900-c-k-c0x00ffffff-no-rj",
+        "genre": " Pop,Soul music",
+        "id": "2",
+        "salary": 120
+    },
+    {
+        "name": "Porshi",
+        "age": "25",
+        "country": "BD",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLS4Cw7IGOVDIN4CKDg4J79xamHRvp7yKLDk4eJ2=s900-c-k-c0x00ffffff-no-rj",
+        "genre": "Solo",
+        "id": "3",
+        "salary": 130
+    },
+    {
+        "name": "Tahsan",
+        "age": "42",
+        "country": "BD",
+        "img": "https://dhallywoodworld.files.wordpress.com/2013/08/tahsan-rahman-khan-28.jpg",
+        "genre": "Solo Music",
+        "id": "4",
+        "salary": 100
+    },
+    {
+        "name": "Bappa Mazumder",
+        "age": "47",
+        "country": "BD",
+        "img": "https://m.media-amazon.com/images/I/71z9FVq43vL._SS500_.jpg",
+        "genre": "Classical",
+        "id": "5",
+        "salary": 140
+    },
+    {
+        "name": "Kona",
+        "age": "40",
+        "country": "BD",
+        "img": "https://girlbd.files.wordpress.com/2015/03/konaas35.jpg",
+        "genre": "Pop music",
+        "id": "6",
+        "salary": 150
+    }
+]
