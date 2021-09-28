@@ -12,8 +12,8 @@ const Cartadd = (props) => {
     return (
 
         <div>
-            <h4><i className="fas fa-user"></i> Add : {props.cart.length}</h4>
-            <h6>Total Cost : $ {total}</h6>
+            <h4><i className="fas fa-user"></i> Added : {props.cart.length}</h4>
+            <h6>Total Cost : ${total}</h6>
             <ol>
                 {
                     cart.map(artist => <li key={artist.id}>Name : {artist.name}</li>)

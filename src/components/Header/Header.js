@@ -9,6 +9,7 @@ const Header = () => {
             <a style={style} href="/policy">Policy</a>
             <a style={style} href="/tune">Tune</a>
             <a style={style} href="/contact">Contact</a>
+            <h3 className="py-3">Total Budget : $100K</h3>
         </div>
     );
 };
